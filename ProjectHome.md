@@ -1,0 +1,1 @@
+Projeto para desenvolvimento de uma ferramenta de controle para supermercados, tem como princípio básico concluir o projeto de conclusao de curso de analise e desenvolvimento de sistemas.
